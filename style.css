@@ -1,0 +1,35 @@
+canvas {
+  position: fixed;
+  height: 100%;
+  width: 50%;
+}
+
+#bg {
+  top: 0;
+  left: 0;
+}
+
+#bg2 {
+  top: 0;
+  right: 0;
+}
+
+main {
+  position: fixed;
+  bottom: 60px;
+  left: 43%;
+}
+
+#Btn {
+  background-color: #FF00FF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  top: 50%;
+  margin-bottom: 20px;
+}
